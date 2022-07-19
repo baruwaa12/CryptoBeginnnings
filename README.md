@@ -16,3 +16,6 @@ Day 2 - 60 mins into Solidity, Blockchain and Smart Contract Python Tutorial - C
 
 
 Day 3 - 1hr and 30 into Solidity, Blockchain and Smart Contract Python Tutorial - Learnt about PoS, PoW, Consensus and other stuff.
+
+
+Day 4 - Programmed and deployed first smart contract using Remix
