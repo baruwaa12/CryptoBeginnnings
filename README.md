@@ -19,3 +19,6 @@ Day 3 - 1hr and 30 into Solidity, Blockchain and Smart Contract Python Tutorial 
 
 
 Day 4 - Programmed and deployed first smart contract using Remix
+
+
+Day 5 - Programmed second smart contract and finished second lesson.
