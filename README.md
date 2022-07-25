@@ -22,3 +22,6 @@ Day 4 - Programmed and deployed first smart contract using Remix
 
 
 Day 5 - Programmed second smart contract and finished second lesson.
+
+
+Day 6, 7, 8 - Completed 3rd lesson, Half way through the 4th but code needs fixing. Will continue to debug.
