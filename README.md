@@ -25,3 +25,5 @@ Day 5 - Programmed second smart contract and finished second lesson.
 
 
 Day 6, 7, 8 - Completed 3rd lesson, Half way through the 4th but code needs fixing. Will continue to debug.
+
+Day god knows what - Solved one issue during the 4th lesson but need to fix error 13 permission issue
